@@ -1,3 +1,5 @@
 import fastify from "fastify"
 
-const app 
+const app = fastify()
+
+export{app}
